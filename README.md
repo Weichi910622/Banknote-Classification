@@ -18,7 +18,8 @@
 ![numaker-m032kg](https://github.com/user-attachments/assets/53c2646d-d427-4818-993f-16b76a3c903f)
 
 ## Physical Circuit Setup
-![image](https://github.com/user-attachments/assets/65bda780-0380-43b8-a790-017e51f4f0d4)
+![image](https://github.com/user-attachments/assets/07924d79-20af-4fce-878a-5adcfb9e83ce)
+
 
 ## Flow Chart
 <img src="https://github.com/user-attachments/assets/c9f31a80-07d1-4316-83b5-332495b21d1b" width="700">
