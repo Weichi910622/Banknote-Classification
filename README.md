@@ -34,17 +34,17 @@
 <img src="https://github.com/user-attachments/assets/c9f31a80-07d1-4316-83b5-332495b21d1b" width="600">
 
 ## Steps
-1st. `Initialization`:\
+1⃣ `Initialization`:\
 Perform an initial scan of the ADC values from the three RGB photoresistors to establish the baseline ambient light levels and continuously monitor the ADC.\
-2nd. `Start Detection (Start of Recording)`:\
+2⃣ `Start Detection (Start of Recording)`:\
 Occurring significant change about RGB photoresistor values, meaning that a banknote has been inserted and we start recording the variations in RGB intensity.\
-3rd. `Exit Detection (End of Recording)`:\
+3⃣ `Exit Detection (End of Recording)`:\
 Second significant change occurred, the banknote has passed through, and the ambient light has returned to the baseline, stop recording and finalize the RGB time-series data.\
-4th. `Data Resampling`:\
+4⃣ `Data Resampling`:\
 Resample the recorded time-series data to a fixed temporal length to ensure consistency in model input.\
-5th. `Banknote Recognition`:\
+5⃣ `Banknote Recognition`:\
 Predicting the denomination of the banknote.\
-6th. `Result Display`
+6⃣ `Result Display`
 
 
 
