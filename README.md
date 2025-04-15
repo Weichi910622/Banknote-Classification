@@ -1,4 +1,4 @@
-# Banknote Classification System Using NuMaker-M032KG
+# Banknote Classification System with NuMaker-M032KG
 
 This project implements a banknote classification system based on RGB light intensity sensing and a neural network model. It utilizes three photoresistors with color filters and a Multilayer Perceptron (MLP) deployed on the NuMaker-M032KG microcontroller platform.
 
