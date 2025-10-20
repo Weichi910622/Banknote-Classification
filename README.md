@@ -39,7 +39,7 @@ Working Principle:
 - Reflected light passes through RGB filters to respective photoresistors.
 - Analog signals are converted to digital values via onboard ADC.
 
-<img src="https://github.com/user-attachments/assets/07924d79-20af-4fce-878a-5adcfb9e83ce" width="500"/>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/67e88285-d40c-4446-96d4-947ebee10cd5" />
 
 ---
 
